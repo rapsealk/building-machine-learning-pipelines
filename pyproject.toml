@@ -1,0 +1,4 @@
+[tool.ruff]
+line-length = 88
+# isort
+select = ["F", "E", "W", "I001"]

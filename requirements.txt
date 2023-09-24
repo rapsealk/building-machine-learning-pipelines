@@ -1,3 +1,4 @@
 docker==4.4.4
-tensorflow==2.9.2
-tfx==1.10.0
+tensorflow==2.13.0  # https://github.com/tensorflow/tensorflow
+tfx==1.14.0  # https://github.com/tensorflow/tfx
+# keras-tuner==1.4.0
